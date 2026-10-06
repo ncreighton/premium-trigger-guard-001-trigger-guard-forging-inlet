@@ -1,0 +1,2 @@
+# premium-trigger-guard-001-trigger-guard-forging-inlet
+Tired of losing track of your custom trigger guard builds across scattered notes and spreadsheets? The Trigger Guard Forging &amp; Inlet Craft Hub brings every step—from forging to final inlet—into one centralized Notion workspace.  This template eliminates chaos and rework by providing a dedicated system to log each guard's specs, materials, forging p
